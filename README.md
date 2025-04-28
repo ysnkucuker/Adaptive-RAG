@@ -26,4 +26,4 @@ Hallucination Grading (hallucination_grader.py): Checks whether the generated an
 
 Answer Grading (answer_grader.py): Evaluates whether the generated answer effectively addresses the question.
 
-![Workflow Diagram](images/langgraph.png)
+![Workflow Diagram](images/langgrap.png)
